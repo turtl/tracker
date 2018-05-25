@@ -7,6 +7,8 @@ The idea is that many times, users/issue reporters don't know which repo to open
 the issue on or where to look for project status. This is the attempt to solve
 this problem by centralizing everything into one place.
 
+See our [contributing guide](https://github.com/turtl/tracker/blob/master/CONTRIBUTING.md).
+
 ## Turtl components
 
 Here are the main pieces of Turtl and how they all fit together. Note that this
