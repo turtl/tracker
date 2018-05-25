@@ -27,3 +27,5 @@ yet, please go over it.
 If your PR is more than a few lines of code, we will ask you to
 [sign the CLA](https://turtlapp.com/contributing/#sign-the-contributor-license-agreement).
 
+Once that's all done, we welcome your changes!
+
